@@ -92,7 +92,7 @@ export const projectsData = [
       "Developed an Intelligent System for Agriculture in Sri Lanka as a research project, provided healthiness levels using image capturing to help farmers and relevant parties.",
     tags: ["Android", "Java", "Python", "Machine Learning", "TensorFlow", "Image Classification", "MS SQL"],
     githubUrl: "https://github.com/Thamaltw97/Mahaweli-Agricultural-App",
-    exploreUrl: "#",
+    exploreUrl: "",
   },
   {
     title: "Lucy Crypt",
@@ -100,7 +100,7 @@ export const projectsData = [
       "Developed an app that includes Blockchain connection, MetaMask pairing, Smart contract interaction to send Ethereum with solidity code.",
     tags: ["React", "Web 3.0", "Blockchain", "Solidity", "Smart Contract"],
     githubUrl: "https://github.com/Thamaltw97/Lucy-Crypt-Web3.0",
-    exploreUrl: "luci-crypt.netlify.app",
+    exploreUrl: "https://luci-crypt.netlify.app",
   },
   {
     title: "Parcel Delivery Application",
@@ -108,7 +108,7 @@ export const projectsData = [
       "Implemented an Android app for a parcel delivery system that can be used by senders, drivers, and admins with specific roles.",
     tags: ["Android", "Java", "Spring Boot"],
     githubUrl: "https://github.com/Thamaltw97/Parcel-Delivery-App",
-    exploreUrl: "#",
+    exploreUrl: "",
   },
   {
     title: "Fire Alarm Monitoring System",
@@ -116,7 +116,7 @@ export const projectsData = [
       "Developed a fire alarm monitoring system prototype for an undergrad project, including the web client, desktop client for admins.",
     tags: ["React", "Node.js", "RMI", "C#", "Java"],
     githubUrl: "https://github.com/Thamaltw97/Fire-Alarm-Monitoring-System-SLIIT",
-    exploreUrl: "youtube.com/watch?v=Bx7n9zJnrBs&t=385s&ab_channel=ThamalWijetunge",
+    exploreUrl: "https://youtube.com/watch?v=Bx7n9zJnrBs&t=385s&ab_channel=ThamalWijetunge",
   },
 ] as const;
 
