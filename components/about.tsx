@@ -26,7 +26,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Node.js, and MongoDB, C#, .NET, SQL
+          React, Node.js, MongoDB, C#, .NET and SQL
         </span>
         . I am also familiar with Java, Python and TypeScript. I am always looking to
         learn new technologies. I am based in <span className="font-medium">Ontario, Canada </span> and currently looking for a{" "}
